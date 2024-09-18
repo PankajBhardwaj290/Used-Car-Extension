@@ -1,6 +1,7 @@
 # Extended  Used Car Prices MYSQL Database
 
-![image](https://github.com/user-attachments/assets/f9a3e614-72b7-4208-877a-621e257b3747)
+![Screenshot 2024-09-13 212230](https://github.com/user-attachments/assets/79db3817-9c16-4108-ac17-e4a6c2c9f38c)
+
 
 ## Overview
 
@@ -13,4 +14,4 @@
 * Data Science liberies for creating visulaization
 
 
-![download](https://github.com/user-attachments/assets/eda1c64e-e6c6-4c25-a94d-3985876f72f6)
+
