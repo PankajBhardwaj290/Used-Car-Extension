@@ -29,7 +29,8 @@ import matplotlib.pyplot as plt
 ```
 ## Sample Date 
 
-####This data contains model_year,brand name,model,car type,miles_per_gallon,premium_version,msrp,collection car
+#### This data contains model_year,brand name,model,car type,miles_per_gallon,premium_version,msrp,collection car
+
 ---
 Used car extenstion
 |model_year|brand|model|type|miles_per_gallon|premium_version|msrp|collection_car|
