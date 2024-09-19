@@ -5,7 +5,7 @@
 
 ## Overview
 
-#### This project aims to analyze used car price using MYSQL database. Using Jupyter Notebook,we perform SQL queries to extract insights from the data and visualize them using charts and graphs.
+#### * This project aims to analyze used car price using MYSQL database. Using Jupyter Notebook,we perform SQL queries to extract insights from the data and visualize them using charts and graphs.
 
 ## Tools Used 
 
@@ -39,9 +39,19 @@ Used car extenstion
 |2014|RAM|ProMaster 2500 Window Van High Roof|Van|15.0|0|35000.0|0|
 ---
 
-## Sample Visualitization
+## Sample Query 
+```
+plt.pie(df['TotalCars'],labels = l,autopct='%1.2f%%',explode = (0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.3),radius = 1.2)
+plt.title('Car By Type',fontsize = 20,fontname='impact')
+plt.legend(loc="center left",
+          bbox_to_anchor=(1.2, 0.3, 1, 1))
+plt.show()
+```
+
+## Data Visualitization
 
 
 ![download](https://github.com/user-attachments/assets/a9511b34-dfc1-4162-8042-4ea404df3faa)
+ 
 
 
