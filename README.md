@@ -5,7 +5,7 @@
 
 ## Overview
 
-#### * This project aims to analyze used car price using MYSQL database. Using Jupyter Notebook,we perform SQL queries to extract insights from the data and visualize them using charts and graphs.
+#### * This project aims to analyze car production  using MYSQL database. Using Jupyter Notebook,we perform SQL queries to extract insights from the data and visualize them using charts and graphs.
 
 ## Tools Used 
 
